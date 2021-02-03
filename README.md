@@ -48,7 +48,7 @@ _It is not out of scope though, PR are welcome to support universal locale detec
 ## Getting started
 
 ```
-yarn install @unly/universal-language-detector
+yarn add @unly/universal-language-detector
 ```
 
 Use:
